@@ -70,3 +70,6 @@
 
 [Discovering Correlations between Sparse Features in Distant Supervision for Relation Extraction](https://dl.acm.org/doi/pdf/10.1145/3289600.3291004?download=true)
 
+### Publications in WSDM2018 Groupd by Tracks
+
+[Indirect Supervision for Relation Extraction using Question-Answer Pairs](https://dl.acm.org/doi/10.1145/3159652.3159709)
