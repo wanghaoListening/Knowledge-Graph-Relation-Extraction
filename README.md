@@ -59,3 +59,9 @@
 [RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information](https://www.aclweb.org/anthology/D18-1157.pdf)
 
 [Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding](https://www.aclweb.org/anthology/D18-1248.pdf)
+
+### Publications naacl2019
+
+[Hop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1083.pdf)
+[Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks](https://www.aclweb.org/anthology/N19-1306.pdf)
+
