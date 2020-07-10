@@ -47,3 +47,5 @@
 [Improving Relation Extraction with Knowledge-attention](https://arxiv.org/pdf/1910.02724)
 
 [Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data](https://www.aclweb.org/anthology/D19-1021.pdf)
+
+[Connecting the Dots:Document-level Neural Relation Extraction with Edge-oriented Graphs](https://arxiv.org/pdf/1909.00228)
