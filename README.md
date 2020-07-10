@@ -63,5 +63,10 @@
 ### Publications naacl2019
 
 [Hop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1083.pdf)
+
 [Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks](https://www.aclweb.org/anthology/N19-1306.pdf)
+
+### Publications in WSDM2019 Groupd by Tracks
+
+[Discovering Correlations between Sparse Features in Distant Supervision for Relation Extraction](https://dl.acm.org/doi/pdf/10.1145/3289600.3291004?download=true)
 
