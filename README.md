@@ -49,3 +49,13 @@
 [Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data](https://www.aclweb.org/anthology/D19-1021.pdf)
 
 [Connecting the Dots:Document-level Neural Relation Extraction with Edge-oriented Graphs](https://arxiv.org/pdf/1909.00228)
+
+### Publications in EMNLP2018 Groupd by Tracks
+
+[Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention](https://www.aclweb.org/anthology/D18-1247.pdf)
+
+[Neural Relation Extraction via Inner-Sentence Noise Reduction and Transfer Learning](https://www.aclweb.org/anthology/D18-1243.pdf)
+
+[RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information](https://www.aclweb.org/anthology/D18-1157.pdf)
+
+[Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding](https://www.aclweb.org/anthology/D18-1248.pdf)
